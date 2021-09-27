@@ -1,4 +1,5 @@
 ### Hi there 👋
+I love python, javascript
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdan1726)](https://solved.ac/ekdan1726)
 
