@@ -3,7 +3,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdan1726)](https://solved.ac/ekdan1726)
 
 
-- 😄 I like node.js and Python...
 
 <!--
 **Lks9172/Lks9172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
