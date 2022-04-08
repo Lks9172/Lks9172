@@ -3,7 +3,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdan1726)](https://solved.ac/ekdan1726)
 
 
-generalist지만 special하게
+I dream of being a general but special developer.
 <!--
 **Lks9172/Lks9172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
